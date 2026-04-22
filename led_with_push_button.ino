@@ -1,7 +1,7 @@
 const int redLED    = 4;
 const int yellowLED = 3;
-const int greenLED  = 2;
-const int button    = 7;
+const int greenLED  = 5;
+const int button    = 2;
 
 int clickCount = 0;
 int lastBtn    = LOW;
